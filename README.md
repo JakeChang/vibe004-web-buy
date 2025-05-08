@@ -10,6 +10,10 @@
 - 修改現有物品資訊
 - 響應式設計，適應不同裝置
 
+## Demo
+
+https://jk-vibe004.netlify.app/
+
 ## 技術方案
 
 - 前端框架：Nuxt 3 + Vue 3
